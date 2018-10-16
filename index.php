@@ -1,8 +1,3 @@
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-prueba
-</body>
-</html>
+<?php
+  header("Location: pages/dashboard");
+?>
